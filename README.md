@@ -2,10 +2,10 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning and building on Algorand blockchain.
 - 💞️ I’m looking to collaborate on Building:
-  -  Blockchain powered unified borderless payments platform with Fiat/Crypto fast interexchanges with near zero fees.
+  -  Blockchain-powered unified borderless payments platform with Fiat/Crypto fast interexchanges with near-zero fees.
   -  Extensive and exciting Customer Loyalties.
   -  Royalty templates and extensive rewards programs
-  -  Precise and instantly paid refferals.
+  -  Precise and instantly paid referrals.
 - 📫 How to reach me chief@ckka.io
 
 <!---
