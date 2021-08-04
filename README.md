@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @ckkanet
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Algorand
-- 💞️ I’m looking to collaborate on Building Customer Loyalty Blockchain: Collaborators can Take Advantage of Unified Borderless Blockchain Rewards Program.
+- 🌱 I’m currently learning and building on Algorand blockchain.
+- 💞️ I’m looking to collaborate on Building:
+  -  Blockchain powered unified borderless payments platform with Fiat/Crypto fast interexchanges with near zero fees.
+  -  Extensive and exciting Customer Loyalties.
+  -  Royalty templates and extensive rewards programs
+  -  Precise and instantly paid refferals.
 - 📫 How to reach me chief@ckka.io
 
 <!---
